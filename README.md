@@ -7,9 +7,9 @@ You will need to sign up to https://openweathermap.org/ to get an API key.
 
 I created a .bat file and used windows scheduler to execute the program every evening and text me the weather for the following day.
 Output looks like this:
-+--------+--------+-----------------+-----+------+
-|   T    |   °C   |   description   |  c% |  ws  |
-+--------+--------+-----------------+-----+------+
++--------+--------+-----------------+-----+------+<br>
+|   T    |   °C   |   description   |  c% |  ws  |<br>
++--------+--------+-----------------+-----+------+<br>
 |   00   |   9    |       Rain      | 100 | 005  |
 |   03   |   8    |      Clouds     | 100 | 005  |
 |   06   |   7    |      Clouds     | 100 | 005  |
