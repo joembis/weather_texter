@@ -6,16 +6,16 @@ This project pulls weather data for the following day from https://openweatherma
 You will need to sign up to https://openweathermap.org/ to get an API key.
 
 I created a .bat file and used windows scheduler to execute the program every evening and text me the weather for the following day.
-Output looks like this:
+Output looks like this:<br>
 +--------+--------+-----------------+-----+------+<br>
 |   T    |   °C   |   description   |  c% |  ws  |<br>
 +--------+--------+-----------------+-----+------+<br>
-|   00   |   9    |       Rain      | 100 | 005  |
-|   03   |   8    |      Clouds     | 100 | 005  |
-|   06   |   7    |      Clouds     | 100 | 005  |
-|   09   |   8    |       Rain      | 100 | 005  |
-|   12   |   8    |       Rain      | 100 | 003  |
-|   15   |   11   |       Rain      | 100 | 005  |
-|   18   |   9    |      Clouds     | 069 | 004  |
-|   21   |   8    |      Clear      | 005 | 005  |
-+--------+--------+-----------------+-----+------+
+|   00   |   9    |       Rain      | 100 | 005  |<br>
+|   03   |   8    |      Clouds     | 100 | 005  |<br>
+|   06   |   7    |      Clouds     | 100 | 005  |<br>
+|   09   |   8    |       Rain      | 100 | 005  |<br>
+|   12   |   8    |       Rain      | 100 | 003  |<br>
+|   15   |   11   |       Rain      | 100 | 005  |<br>
+|   18   |   9    |      Clouds     | 069 | 004  |<br>
+|   21   |   8    |      Clear      | 005 | 005  |<br>
++--------+--------+-----------------+-----+------+<br>
