@@ -2,8 +2,8 @@ from twilio.rest import Client
 from prettytable import PrettyTable
 
 
-account_sid = '' # account sid from openweathermap.org
-auth_token = '' # account auth token from openweathermap.org
+account_sid = '' # account sid from twilio
+auth_token = '' # account auth token from twilio
 to_number = 'whatsapp:+44xxxxxxxxxx' # phone number
 
 client = Client(account_sid, auth_token)
